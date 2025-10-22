@@ -5,6 +5,8 @@ Funções Estatísticas: https://ashki23.github.io/r-functions.html
 
 Introdução à biblioteca ggplot2: https://ggplot2.tidyverse.org/articles/ggplot2.html
 
+Introdução ao R: https://intro2r.com/
+
 Material de R para Ciência de Dados (transformação, modelagem e visualização de dados): https://pt.r4ds.hadley.nz/
 
 Material básico para todos assuntos vistos + conteúdos novos avançados: https://livro.curso-r.com/
